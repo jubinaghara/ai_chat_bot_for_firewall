@@ -1,0 +1,6 @@
+transformers==4.37.2
+torch==2.2.0+cpu  # CPU-only version, much smaller
+pandas==2.2.0
+flask==3.0.0
+python-dotenv==1.0.0
+pytest==7.4.3
